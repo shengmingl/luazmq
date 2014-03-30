@@ -1,0 +1,3 @@
+LIBRARY luazmq
+EXPORTS
+luaopen_luazmq
